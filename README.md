@@ -1,0 +1,1 @@
+FunkoExpress consiste en una aplicación web ligera y de alta velocidad diseñada para que los vecinos de la comunidad puedan consultar en tiempo real el stock disponible y los precios de la tienda física de Funko Pops, evitando traslados innecesarios y optimizando el proceso de reserva.
